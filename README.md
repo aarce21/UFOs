@@ -1,6 +1,6 @@
 # UFOs
 # Overview
-The purpose of this UFO Sighting analysis is to allow visitors to the UFO sight be able to filter the available data based on various criteria. There is a large amount of data present for the UFO sightings and it will be a great help to someone if they can filter the data to find what they are looking for. With the added feature of being able to filter the data based on either datam city, state, country, or shape of the UFO sighting, the amount of data on the page becomes easier for the page visitor to break down. 
+The purpose of this UFO Sighting analysis is to allow visitors to the UFO Sightings website be able to filter the available data based on various criteria. There is a large amount of data present for the UFO sightings and it will be a great help to someone if they can filter the data to find what they are looking for. With the added feature of being able to filter the data based on either a date, city, state, country, or shape of the UFO sighting, the amount of data on the page becomes easier for the page visitor to break down. 
 
 # Results 
 
